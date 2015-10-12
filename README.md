@@ -9,7 +9,7 @@ Time spent: 3 hours
 
 This is an implementation of the Swift tip calculator built by following [tutorial video](http://vimeo.com/102084767) published by CodePath.
 
-![Demo of calculating a tip for $51.33](demo.gif)
+![Demo of calculating a tip](NewTipDemo.gif)
 
 * [x] Required: The user can calculate the tip, using diferent percentages 
 * [ ] Optional: Playing with different animations: backgrounds, centers, alphas...
